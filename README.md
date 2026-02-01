@@ -1,4 +1,4 @@
-# TrainReliability
+# RailWatch
 An application to track those pesky trains. 
 
 # RailWatch (working title)
